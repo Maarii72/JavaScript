@@ -4,7 +4,7 @@ function getAnimal(id){
       return "cão";
       case 2:
       return "gato";
-      case 1:
+      case 3:
       return "pássaro";
       default:
         return "peixe";
